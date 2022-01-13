@@ -1,5 +1,6 @@
 ### Hi there 👋
    I’m currently learning CS50 course.
+   I'm slef_taught.
                🎯I’m looking forward to be an Android develope.
                             I really like java language and I hope to be a professional on it.
 
